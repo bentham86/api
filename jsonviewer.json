@@ -1,0 +1,102 @@
+[
+  {
+    "marca": "samsung",
+    "ciudad": "cali",
+    "valor": 1
+  },
+  {
+    "marca": "samsung",
+    "ciudad": "barranquilla",
+    "valor": 2
+  },
+  {
+    "marca": "samsung",
+    "ciudad": "medellin",
+    "valor": 3
+  },
+  {
+    "marca": "samsung",
+    "ciudad": "bogota",
+    "valor": 4
+  },
+  {
+    "marca": "samsung",
+    "ciudad": "valledupar",
+    "valor": 5
+  },
+  {
+    "marca": "iphone",
+    "ciudad": "cali",
+    "valor": 6
+  },
+  {
+    "marca": "iphone",
+    "ciudad": "barranquilla",
+    "valor": 7
+  },
+  {
+    "marca": "iphone",
+    "ciudad": "medellin",
+    "valor": 8
+  },
+  {
+    "marca": "iphone",
+    "ciudad": "bogota",
+    "valor": 9
+  },
+  {
+    "marca": "iphone",
+    "ciudad": "valledupar",
+    "valor": 10
+  },
+  {
+    "marca": "huawei",
+    "ciudad": "cali",
+    "valor": 11
+  },
+  {
+    "marca": "huawei",
+    "ciudad": "barranquilla",
+    "valor": 12
+  },
+  {
+    "marca": "huawei",
+    "ciudad": "medellin",
+    "valor": 13
+  },
+  {
+    "marca": "huawei",
+    "ciudad": "bogota",
+    "valor": 14
+  },
+  {
+    "marca": "huawei",
+    "ciudad": "valledupar",
+    "valor": 15
+  },
+  {
+    "marca": "xiaomi",
+    "ciudad": "cali",
+    "valor": 16
+  },
+  {
+    "marca": "xiaomi",
+    "ciudad": "barranquilla",
+    "valor": 17
+  },
+  {
+    "marca": "xiaomi",
+    "ciudad": "medellin",
+    "valor": 18
+  },
+  {
+    "marca": "xiaomi",
+    "ciudad": "bogota",
+    "valor": 19
+  },
+  {
+    "marca": "xiaomi",
+    "ciudad": "valledupar",
+    "valor": 20
+  }
+]
